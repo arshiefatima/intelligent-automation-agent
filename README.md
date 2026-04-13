@@ -21,6 +21,12 @@ This project builds an AI agent that:
 - Processes it using an LLM
 - Generates intelligent outputs
 - Automates workflows
+- ## 🧠 AI Capabilities
+This agent can:
+- Generate emails
+- Summarize text
+- Suggest code snippets
+- Handle general automation tasks
 
 ---
 
