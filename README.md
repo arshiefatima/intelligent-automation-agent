@@ -1,10 +1,15 @@
-# 🤖 AI Automation Agent (LLM-Powered)
+# 🤖 AI Resume Analyzer (LLM + RAG Inspired)
 
 ## 🚀 Project Overview
-This project is an AI-powered automation system that uses Large Language Models (LLMs) to automate repetitive tasks such as content generation, analysis, and workflow execution.
 
-It demonstrates how AI agents can reduce manual effort and improve productivity using Python and modern AI tools.
+This project is an AI-powered Resume Analyzer that simulates how modern LLM and RAG-based systems evaluate resumes.
 
+It analyzes resumes based on job roles and provides:
+- Skill matching
+- Gap analysis
+- Intelligent feedback
+
+The system mimics how AI models process input and generate insights.
 ---
 
 ## 💡 Problem Statement
@@ -28,6 +33,20 @@ This agent can:
 - Suggest code snippets
 - Handle general automation tasks
 
+  ## 🧠 AI Concepts Implemented
+
+- AI Agents
+- Prompt-style processing
+- RAG (Retrieval-Augmented Generation) simulation
+- Rule-based LLM behavior
+
+  ## 🎯 Key Features
+
+- Resume skill extraction
+- Job-role based evaluation
+- Missing skill detection
+- Intelligent feedback generation
+
 ---
 
 ## ⚙️ Tech Used
@@ -41,4 +60,5 @@ This agent can:
 ## Notebook Demo
 check the working demo here:
 notebooks/AI_Agent.ipynb
+
 
